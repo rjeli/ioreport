@@ -1,0 +1,11 @@
+[package]
+name = "asibw"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+block2 = "0.5.0"
+core-foundation = "0.9.4"
+objc2 = "0.5.1"
+objc2-foundation = { version = "0.2.0", features = ["all"] }
+textplots = "0.8.6"
